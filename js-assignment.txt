@@ -1,0 +1,23 @@
+var a = 3;
+var b = '3';
+var c =  4;
+var d = a + b + c;
+// What is d?
+
+var a = 3;
+var b = '3';
+var c =  4;
+var d = a - b - c;
+// What is d?
+
+var bulls = 93;
+bulls = '93';
+var nuggets = 74;
+var result = bulls + nuggets;
+// What is result?
+
+var bulls = 93;
+bulls = '93';
+var nuggets = 74;
+var result = bulls - nuggets;
+// What is result?
